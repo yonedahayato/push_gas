@@ -1,6 +1,6 @@
 import requests
 
-import setting
+from . import setting
 
 line_notify_token = setting.line_notify_token
 
